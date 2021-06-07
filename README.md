@@ -14,6 +14,8 @@
 ![сгенерировать](https://user-images.githubusercontent.com/85296765/120984543-6db2a700-c783-11eb-84e4-37ab8589f663.png)
 * 5.3. Настройки > Родительский контроль > При указанием каталога дочерним он будет использовать свойства каталога
 ![родительский контроль](https://user-images.githubusercontent.com/85296765/120984358-43f98000-c783-11eb-91a5-1ac40fe05151.png)
+5.4 Родительский контроль описание кнопо(при выборе пропадают вкладки свойства, свойства разделов, свойства элементов)
+![suk](https://user-images.githubusercontent.com/85296765/121004799-c55b0d80-c797-11eb-8165-3a44629ef772.png)
 # 6.0 SEO
 * 6.1 SEO > Title > Заглавие
 ![seo](https://user-images.githubusercontent.com/85296765/120978552-435deb00-c77d-11eb-8d48-3f9223855ed4.png)
@@ -54,7 +56,8 @@
 * 10.5 Сгенерировать код (код генерировается на основе названия)
 ![орандж5](https://user-images.githubusercontent.com/85296765/120999279-9cd01500-c791-11eb-8618-d07a8ee9d3df.png)
 * 10.6 Свойства
-![орандж6](https://user-images.githubusercontent.com/85296765/120999471-d274fe00-c791-11eb-9413-c73548d12390.png)
+![oranj](https://user-images.githubusercontent.com/85296765/121000481-f127c480-c792-11eb-9a95-71791b0a9f38.png)
+
 
 
 

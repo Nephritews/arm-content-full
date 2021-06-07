@@ -61,7 +61,6 @@
 ![флюкостат](https://user-images.githubusercontent.com/85296765/121024042-84212880-c7ac-11eb-9aa7-a6b0a49974c8.png)  
 11.7 Свойства
 ![флюкостат](https://user-images.githubusercontent.com/85296765/121026335-b2076c80-c7ae-11eb-9919-20a8b7d2eede.png)
-/actions/khit-prodazh-v-aprele/?utm_source=vitaexpress&utm_medium=banner&utm_campaign=hit_april
 
 
 

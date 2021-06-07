@@ -35,6 +35,9 @@
 ![число 23](https://user-images.githubusercontent.com/85296765/120991253-1f54d680-c78a-11eb-8a38-cf2b1672d599.png)
 * Оранженевая кнопка + добавить раздел
 ![+](https://user-images.githubusercontent.com/85296765/120988055-dea78e00-c786-11eb-880a-c580e6d65285.png)
+№
+# 9.0 Свойства элементов
+
 
 
 

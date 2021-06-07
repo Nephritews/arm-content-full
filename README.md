@@ -32,7 +32,7 @@
 * Название: ID
 ![название айди](https://user-images.githubusercontent.com/85296765/120988673-74431d80-c787-11eb-9ae6-93d418506af5.png)
 * Тип: Число 
-* ![свойства число](https://user-images.githubusercontent.com/85296765/120988020-d8b1ad00-c786-11eb-8504-a2efbb55c73e.png)
+![свойства число](https://user-images.githubusercontent.com/85296765/120988020-d8b1ad00-c786-11eb-8504-a2efbb55c73e.png)
 * Оранженевая кнопка + добавить раздел
 ![+](https://user-images.githubusercontent.com/85296765/120988055-dea78e00-c786-11eb-880a-c580e6d65285.png)
 

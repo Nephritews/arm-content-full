@@ -36,10 +36,8 @@
 # 9.0 Свойства элементов
 * 9.1 Оранженевая кнопка + добавить новый раздел
 ![свойства элементов +](https://user-images.githubusercontent.com/85296765/120997680-1404a980-c790-11eb-926e-d0b35d2ff73c.png)
-* 9.2 Название: ID
-![свойства названия](https://user-images.githubusercontent.com/85296765/120997861-3a2a4980-c790-11eb-8c9e-5de01fab57c8.png)
-* 9.3 Тип: Число, Строка 
-![свойста тип](https://user-images.githubusercontent.com/85296765/120997998-54fcbe00-c790-11eb-9222-f5914265cd28.png)
+* 9.2 Название: ID > Тип: Число, Строка 
+![23](https://user-images.githubusercontent.com/85296765/121011199-04409180-c79f-11eb-9a18-21c83eb54ae8.png)
 # 10 Элементы
 * 10.1 Оранженевая кнопка + добавить новый раздел
 ![оранд](https://user-images.githubusercontent.com/85296765/120998556-de13f500-c790-11eb-8f03-86c343d5eaf3.png)

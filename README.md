@@ -37,11 +37,11 @@
 ![+](https://user-images.githubusercontent.com/85296765/120988055-dea78e00-c786-11eb-880a-c580e6d65285.png)
 # 9.0 Свойства элементов
 * 9.1 Оранженевая кнопка + добавить новый раздел
-* ![свойства элементов +](https://user-images.githubusercontent.com/85296765/120997680-1404a980-c790-11eb-926e-d0b35d2ff73c.png)
+![свойства элементов +](https://user-images.githubusercontent.com/85296765/120997680-1404a980-c790-11eb-926e-d0b35d2ff73c.png)
 * 9.2 Название
-* ![свойства названия](https://user-images.githubusercontent.com/85296765/120997861-3a2a4980-c790-11eb-8c9e-5de01fab57c8.png)
+![свойства названия](https://user-images.githubusercontent.com/85296765/120997861-3a2a4980-c790-11eb-8c9e-5de01fab57c8.png)
 * 9.3 Тип
-* ![свойста тип](https://user-images.githubusercontent.com/85296765/120997998-54fcbe00-c790-11eb-9222-f5914265cd28.png)
+![свойста тип](https://user-images.githubusercontent.com/85296765/120997998-54fcbe00-c790-11eb-9222-f5914265cd28.png)
 # 10 Элементы
 * 10 Оранженевая кнопка + добавить новый раздел
 * 10.1 Новый элемент

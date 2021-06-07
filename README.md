@@ -46,6 +46,19 @@
 #  Инфоблоки
 ## Товары в поисковой строке
 11. 1 > Настройка 2 > Seo 3 > Свойсвтва 4 > Свойства разделов 5 > Свойства элементов > Элементы
+11.1 Настройка
+![23](https://user-images.githubusercontent.com/85296765/121021814-710d5900-c7aa-11eb-82b0-af10da5513d6.png)
+11.2 SEO
+![23](https://user-images.githubusercontent.com/85296765/121022417-fb55bd00-c7aa-11eb-9149-8b9f6564cf7a.png)
+11.3 Свойства разделов
+![23](https://user-images.githubusercontent.com/85296765/121022607-250ee400-c7ab-11eb-8c53-511946cfa053.png)
+11.4 Свойства элементов
+![23](https://user-images.githubusercontent.com/85296765/121022948-7cad4f80-c7ab-11eb-8fbb-fd2b0211a972.png)
+11.5 Элементы
+![Безымянный](https://user-images.githubusercontent.com/85296765/121023090-9d75a500-c7ab-11eb-9703-834c148433dc.png)
+
+
+
 
 
 

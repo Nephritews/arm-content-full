@@ -18,7 +18,7 @@
 ![suk](https://user-images.githubusercontent.com/85296765/121004799-c55b0d80-c797-11eb-8165-3a44629ef772.png)
 # 6.0 SEO
 * 6.1 SEO > Title > Заглавие > Keywords > Ключевые слова > Description > Описание
-![gyu](https://user-images.githubusercontent.com/85296765/121009082-66e45e00-c79c-11eb-934f-0388d1d61325.png)
+![23](https://user-images.githubusercontent.com/85296765/121013804-fc362100-c7a1-11eb-964c-7e6926f5a34e.png)
 # 7.0 Свойства
 * 7.1 Название: ID > Тип: Число > Значение
 ![23](https://user-images.githubusercontent.com/85296765/121012283-3b637280-c7a0-11eb-912f-b46ca71c0311.png)

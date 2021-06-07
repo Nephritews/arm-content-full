@@ -57,7 +57,7 @@
 ![23](https://user-images.githubusercontent.com/85296765/121022948-7cad4f80-c7ab-11eb-8fbb-fd2b0211a972.png)
 11.5 Элементы
 ![Безымянный](https://user-images.githubusercontent.com/85296765/121023090-9d75a500-c7ab-11eb-9703-834c148433dc.png)
-11.6 Флюкостат.
+11.6 Флюкостат
 ![флюкостат](https://user-images.githubusercontent.com/85296765/121024042-84212880-c7ac-11eb-9aa7-a6b0a49974c8.png)
 
 

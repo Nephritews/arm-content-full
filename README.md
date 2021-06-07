@@ -43,6 +43,8 @@
 ![орандж5](https://user-images.githubusercontent.com/85296765/120999279-9cd01500-c791-11eb-8618-d07a8ee9d3df.png)
 * 10.6 Свойства
 ![oranj](https://user-images.githubusercontent.com/85296765/121000481-f127c480-c792-11eb-9a95-71791b0a9f38.png)
+#  Инфоблоки
+## Товары в поисковой строке
 
 
 

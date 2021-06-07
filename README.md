@@ -28,7 +28,7 @@
 ![свойства число](https://user-images.githubusercontent.com/85296765/120986703-8a4fde80-c785-11eb-8e94-4eea95a5cfb4.png)
 * Значение
 ![свойства значение](https://user-images.githubusercontent.com/85296765/120986728-90de5600-c785-11eb-8432-c6850b555358.png)
-# Свойства разделов
+# 8.0 Свойства разделов
 * Название: ID
 ![название айди](https://user-images.githubusercontent.com/85296765/120988673-74431d80-c787-11eb-9ae6-93d418506af5.png)
 * Тип: Число 

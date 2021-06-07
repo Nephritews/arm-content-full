@@ -23,12 +23,8 @@
 * 7.1 Название: ID > Тип: Число > Значение
 ![23](https://user-images.githubusercontent.com/85296765/121012283-3b637280-c7a0-11eb-912f-b46ca71c0311.png)
 # 8.0 Свойства разделов
-* 8.1 Название: ID
-![название айди](https://user-images.githubusercontent.com/85296765/120988673-74431d80-c787-11eb-9ae6-93d418506af5.png)
-* 8.2 Тип: Число, Строка 
-![число 23](https://user-images.githubusercontent.com/85296765/120991253-1f54d680-c78a-11eb-8a38-cf2b1672d599.png)
-* 8.3 Оранженевая кнопка + добавить новый раздел
-![+](https://user-images.githubusercontent.com/85296765/120988055-dea78e00-c786-11eb-880a-c580e6d65285.png)
+* 8.1 Название: ID > Тип: Число, Строка > Оранженевая кнопка + добавить новый раздел
+![23](https://user-images.githubusercontent.com/85296765/121014412-9eee9f80-c7a2-11eb-8c5d-22a5ac98b43b.png)
 # 9.0 Свойства элементов
 * 9.1 Оранженевая кнопка + добавить новый раздел
 ![свойства элементов +](https://user-images.githubusercontent.com/85296765/120997680-1404a980-c790-11eb-926e-d0b35d2ff73c.png)

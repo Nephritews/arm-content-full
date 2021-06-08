@@ -44,22 +44,22 @@
 * 10.6 Свойства
 ![oranj](https://user-images.githubusercontent.com/85296765/121000481-f127c480-c792-11eb-9a95-71791b0a9f38.png)
 ## 11 Товары в поисковой строке
-11.1
+* 11.1
 # 1 > Настройка 2 > Seo 3 > Свойсвтва 4 > Свойства разделов 5 > Свойства элементов 6 > Элементы 
 ![234](https://user-images.githubusercontent.com/85296765/121192889-075a8100-c876-11eb-9f85-6ea4dc4fd0bc.png)
-11.2 Настройка
+* 11.2 Настройка
 ![23](https://user-images.githubusercontent.com/85296765/121021814-710d5900-c7aa-11eb-82b0-af10da5513d6.png)
-11.3 SEO
+* 11.3 SEO
 ![23](https://user-images.githubusercontent.com/85296765/121022417-fb55bd00-c7aa-11eb-9149-8b9f6564cf7a.png)
-11.4 Свойства разделов
+* 11.4 Свойства разделов
 ![23](https://user-images.githubusercontent.com/85296765/121022607-250ee400-c7ab-11eb-8c53-511946cfa053.png)
-11.5 Свойства элементов
+* 11.5 Свойства элементов
 ![23](https://user-images.githubusercontent.com/85296765/121022948-7cad4f80-c7ab-11eb-8fbb-fd2b0211a972.png)
-11.6 Элементы
+* 11.6 Элементы
 ![Безымянный](https://user-images.githubusercontent.com/85296765/121023090-9d75a500-c7ab-11eb-9703-834c148433dc.png)  
-11.7 Флюкостат
+* 11.7 Флюкостат
 ![флюкостат](https://user-images.githubusercontent.com/85296765/121024042-84212880-c7ac-11eb-9aa7-a6b0a49974c8.png)  
-11.8 Свойства
+* 11.8 Свойства
 ![флюкостат](https://user-images.githubusercontent.com/85296765/121026335-b2076c80-c7ae-11eb-9919-20a8b7d2eede.png)
 
 

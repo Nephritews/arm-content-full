@@ -93,6 +93,7 @@ Keywords и Description использует аналогичную с title м�
 ## 8.0 Обновление данных.
 Обновление вкладок инфоблока.
 ![обнова 23](https://user-images.githubusercontent.com/85296765/122167531-2cf61480-ce8c-11eb-8edf-f24b994207c9.png)
+![MicrosoftTeams-image (2)](https://user-images.githubusercontent.com/85296765/122168014-cc1b0c00-ce8c-11eb-8f92-3c94dca705b5.png)
 
 
 

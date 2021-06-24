@@ -51,11 +51,11 @@ Keywords и Description использует аналогичную с title м�
 * 7.3 Настройки
 ![оранд3](https://user-images.githubusercontent.com/85296765/120998981-46fb6d00-c791-11eb-9734-ed9e2b066895.png)
 * 7.4 Название
-![орандж4](https://user-images.githubusercontent.com/85296765/120999116-6befe000-c791-11eb-8601-0e0577064ff9.png)
+![23](https://user-images.githubusercontent.com/85296765/123255913-69b3b280-d501-11eb-81e7-981fbf4c4bed.png)
 * 7.5 Сгенерировать код (код генерируется на основе названия)
-![орандж5](https://user-images.githubusercontent.com/85296765/120999279-9cd01500-c791-11eb-8618-d07a8ee9d3df.png)
-* 7.6 Свойства
-![oranj](https://user-images.githubusercontent.com/85296765/121000481-f127c480-c792-11eb-9a95-71791b0a9f38.png)
+![24](https://user-images.githubusercontent.com/85296765/123255940-720bed80-d501-11eb-8b23-a330f40a7d5d.png)
+* 7.6 Введите свойства
+![25](https://user-images.githubusercontent.com/85296765/123255965-76d0a180-d501-11eb-9b45-257e6f8b3caf.png)
 ## 8.0 Обновление данных.
 Обновление вкладок инфоблока.
 

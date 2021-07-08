@@ -87,6 +87,7 @@ https://vitaexpress.ru/ (промышленный сервер) и https://dev.v
 ![Безымянный11](https://user-images.githubusercontent.com/85296765/124229304-739b6e00-db1e-11eb-8dfc-332a068bc50e.png)
 * 11.2 При попытках удалить каталог изначально нужно удалить вложенные дочерние элементы.
 ![Безымянный11](https://user-images.githubusercontent.com/85296765/124248702-2a561900-db34-11eb-804b-f31394d03a1c.png)
+  
 
 
 
